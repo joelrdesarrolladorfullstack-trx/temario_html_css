@@ -1,0 +1,38 @@
+p {
+    color: red;
+    font-family: "MiFuente";
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;   
+    text-align: justify;
+    text-decoration: underline overline wavy;
+    line-height: 2;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+h1 {
+    color: blue;
+    font-family: "MiFuente";
+    font-size: 40px;
+    font-weight: 900;
+    font-style: italic;   
+    text-align: center; 
+}
+button {
+    color: white;
+    background-color: black;
+    font-family: "MiFuente";
+    font-size: 20px;
+    font-weight: 900;
+    font-style: italic;   
+    text-align: left; 
+}
+span {
+    color: green;
+    font-family: "MiFuente";
+    font-size: 20px;
+    font-weight: 900;
+    font-style: italic;   
+    text-align: justify; 
+}
+

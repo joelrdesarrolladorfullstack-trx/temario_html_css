@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500" viewBox="0 0 700 500">
+  <rect width="700" height="500" fill="#bfe3f5"/>
+  <circle cx="560" cy="110" r="55" fill="#ffd166"/>
+  <polygon points="0,500 200,220 380,500" fill="#4a7c59"/>
+  <polygon points="220,500 450,170 700,500" fill="#2f5d3a"/>
+  <polygon points="450,170 400,242 500,242" fill="#ffffff"/>
+  <rect y="430" width="700" height="70" fill="#6fae5a"/>
+  <text x="350" y="475" font-family="sans-serif" font-size="26" fill="#ffffff" text-anchor="middle">Imagen de ejemplo (archivo local)</text>
+</svg>

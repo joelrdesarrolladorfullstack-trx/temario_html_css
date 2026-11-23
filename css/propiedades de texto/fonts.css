@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "MiFuente";
+    src: url("../Fonts/static/Montserrat-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "MiFuente";
+    src: url("../Fonts/static/Montserrat-Bold.ttf") format("truetype");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "MiFuente";
+    src: url("../Fonts/static/Montserrat-ExtraBold.ttf") format("truetype");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "MiFuente";
+    src: url("../Fonts/static/Montserrat-Black.ttf") format("truetype");
+    font-weight: 900;
+}

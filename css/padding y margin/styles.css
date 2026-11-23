@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 10px;
+}
+
+.separador {
+    overflow: hidden;
+    margin: 10px;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    margin: 10px;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    margin: 10px;
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: lightsalmon;
+    margin: 10px;
+}

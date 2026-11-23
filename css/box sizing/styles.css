@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 10px;
+}
+
+.box:nth-child(1) {
+    padding: 30px;
+    border: 10px solid black;
+}
+
+.box:nth-child(2) {
+    padding: 30px;
+    border: 10px solid black;
+    box-sizing: border-box;
+}

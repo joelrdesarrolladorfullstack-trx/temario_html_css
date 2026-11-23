@@ -1,0 +1,12 @@
+span {
+    color: blue;
+} 
+li {
+    color: red;
+}
+.faltante {
+    color: green;
+}
+#ingrediente-secreto {
+    color: purple;
+}
